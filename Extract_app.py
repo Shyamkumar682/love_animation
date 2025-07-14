@@ -20,7 +20,7 @@ st.markdown("""
         }
 
         .stTextInput input {
-            color: white !important;
+            color: #800000 !important;
         }
     </style>
 """, unsafe_allow_html=True)
